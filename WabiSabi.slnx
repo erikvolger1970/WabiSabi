@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="WabiSabi.FP.Tests/WabiSabi.FP.Tests.csproj" Id="5f422570-84c1-4ea2-aa3c-4d1a0e2a7617" />
   <Project Path="WabiSabi.FP/WabiSabi.FP.csproj" />
 </Solution>
